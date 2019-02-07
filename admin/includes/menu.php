@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-sm navbar-dark fixed-top desenfoque" style="
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
     <!-- Brand/logo -->
-    <a class="navbar-brand bg-dark p-3 pb-4 rounded" style="opacity: 0.4;" href="../../index.php">Truki Gallery</a>
+    <a class="navbar-brand bg-dark p-3 pb-4 rounded" style="opacity: 0.4;" href="../index.php">Truki Gallery</a>
     
     <!-- Links -->
     

@@ -3,8 +3,7 @@ Create table autor(
     name varchar(200),
     password varchar(100),
     email varchar(200),
-    enabled int(2),
-    actived date CURRENT_TIMESTAMP
+    enabled int(2)
 );
 
 create table imagen(
